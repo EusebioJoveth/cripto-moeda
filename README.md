@@ -1,6 +1,6 @@
 # cripto_moeda
 
-A new Flutter project.
+Aplicativo de criptomoeda
 
 ## Getting Started
 
